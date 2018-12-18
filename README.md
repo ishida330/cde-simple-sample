@@ -9,6 +9,8 @@ Please see Qiita Article :
 [WebアプリにBIダッシュボードを簡単に埋め込み！Cognos Dashboard Embeddedを使ってみたよ](
 https://qiita.com/ishida330/items/47ef999837d714967271)
 
+![](https://qiita-image-store.s3.amazonaws.com/0/108535/9ca061c0-50d8-0798-4cc4-d182a3fec685.gif) 
+
 # How to run this app in localhost
 ### 1. Clone this repo
 `git clone https://github.com/ishida330/cde-simple-sample.git`
@@ -41,6 +43,5 @@ Then you will see
  ### 4. access the app 
  open any browser and type http://127.0.0.1:5000/ ( or your own URL)
 
-![](https://qiita-image-store.s3.amazonaws.com/0/108535/9ca061c0-50d8-0798-4cc4-d182a3fec685.gif) 
 <br>
 That's all. Have Fun!
