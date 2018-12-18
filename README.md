@@ -13,14 +13,16 @@ Please see Qiita Article :
 `git clone https://github.com/ishida330/cde-simple-sample.git`
 
 ### 2. Change constant in run.py
-api_endpoint_url/client_id/client_secret should be copied from Credentials of IBM cognos dashboard embedded service.
 
-my_Flask_url = "http://localhost:5000"
-api_endpoint_url = "https://xxxxxx.dynamic-dashboard-embedded.cloud.ibm.com/daas"
-client_id = "xxxxxxxx-xxxxx-xxxx-xxxx-xxxxxxxxxxxx"
-client_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+![image](https://qiita-image-store.s3.amazonaws.com/0/108535/535ca791-fcb7-f753-dfb3-0b3fb5ad4696.png)
+api_endpoint_url/client_id/client_secret should be copied from Service Credentials of IBM cognos dashboard embedded service.
 
-### 3. Run App
+- my_Flask_url = "http://localhost:5000" ( <---change this to fit your env if you need )
+- api_endpoint_url = "https://xxxxxx.dynamic-dashboard-embedded.cloud.ibm.com/daas"
+- client_id = "xxxxxxxx-xxxxx-xxxx-xxxx-xxxxxxxxxxxx"
+- client_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+### 3. Run the App
 type these command.
 
 `set FLASK_APP=run.py`
@@ -36,5 +38,7 @@ Then you will see
 ``` 
  ### 4. access the app 
  open any browsser and type http://127.0.0.1:5000/
- 
+
 ![](https://qiita-image-store.s3.amazonaws.com/0/108535/9ca061c0-50d8-0798-4cc4-d182a3fec685.gif) 
+
+That's all. Have Fun!
