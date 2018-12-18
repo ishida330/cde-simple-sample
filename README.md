@@ -6,7 +6,8 @@ Simple Example of IBM cognos dashboard embedded App
 - DataSource data: Japanese UTF-8 CSV ( json/CSV_jp.csv )
 
 Please see Qiita Article :
-
+![WebアプリにBIダッシュボードを簡単に埋め込み！Cognos Dashboard Embeddedを使ってみたよ](
+https://qiita.com/ishida330/items/47ef999837d714967271)
 
 # How to run this app in localhost
 ### 1. Clone this repo
