@@ -15,6 +15,7 @@ Please see Qiita Article :
 ### 2. Change constant in run.py
 
 ![image](https://qiita-image-store.s3.amazonaws.com/0/108535/535ca791-fcb7-f753-dfb3-0b3fb5ad4696.png)
+<br>
 api_endpoint_url/client_id/client_secret should be copied from Service Credentials of IBM cognos dashboard embedded service.
 
 - my_Flask_url = "http://localhost:5000" ( <---change this to fit your env if you need )
@@ -25,7 +26,7 @@ api_endpoint_url/client_id/client_secret should be copied from Service Credentia
 ### 3. Run the App
 type these command.
 
-`set FLASK_APP=run.py`
+`set FLASK_APP=run.py` <br>
 `flask run`
 
 If you're using Windows, you can execute **go.bat** instead
