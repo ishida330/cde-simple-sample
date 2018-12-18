@@ -44,4 +44,8 @@ Then you will see
  open any browser and type http://127.0.0.1:5000/ ( or your own URL)
 
 <br>
+
+### Just in case
+I've included **"CognosApi.js"** as of 2018/12/17 in this project(/js) to start fast. But I'll recommend to download the latest one from [here](https://dde-us-south.analytics.ibm.com/daas/CognosApi.js) and update to adopt the latest functions.
+
 That's all. Have Fun!
