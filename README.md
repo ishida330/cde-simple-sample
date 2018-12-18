@@ -29,7 +29,7 @@ type these command.
 `set FLASK_APP=run.py` <br>
 `flask run`
 
-If you're using Windows, you can execute **go.bat** instead
+- If you're using Windows, you can execute **go.bat** instead
 
 Then you will see
 ```
@@ -38,8 +38,8 @@ Then you will see
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ``` 
  ### 4. access the app 
- open any browsser and type http://127.0.0.1:5000/
+ open any browser and type http://127.0.0.1:5000/ ( or your own URL)
 
 ![](https://qiita-image-store.s3.amazonaws.com/0/108535/9ca061c0-50d8-0798-4cc4-d182a3fec685.gif) 
-
+<br>
 That's all. Have Fun!
